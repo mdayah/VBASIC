@@ -1,0 +1,32 @@
+[shared-]
+	pmark=
+	version=3
+[debug-]
+	target="d:\vbasic\system\bc.exe"
+	synonym=;D:\VBASIC\SYSTEM
+	memwin=vm1b DS:0 
+	memwin=vm2b DS:0 
+[cv]
+	wndstate=0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1
+	wndstate=1 20 24 60 25 0 1 0 0 0 0 0 0 0 -1
+	wndstate=2 34 9 33 1 0 0 0 0 0 0 0 0 0 -1
+	wndstate=3 20 24 0 1 0 1 0 0 0 8 8 0 0 -1
+	wndstate=4 20 24 20 1 1 1 0 0 0 8 8 0 0 -1
+	wndstate=5 20 24 40 1 0 1 0 0 0 0 0 0 0 -1
+	wndstate=6 20 24 60 1 0 1 0 0 0 0 0 0 0 -1
+	wndstate=7 20 24 0 25 0 1 0 0 0 0 0 0 0 -1
+	wndstate=8 20 24 20 25 0 1 0 0 0 0 0 0 0 -1
+	wndstate=9 20 24 40 25 0 1 0 1 0 2 0 0 0 -1
+	command=use auto
+	command=n10
+	screensize=50
+	command=oh+
+	command=ov+
+	command=oa+
+	command=vs1
+	command=vs2
+	command=oc+
+	command=of+
+	command=o3-
+	command=ollf   
+	tracespeed=250
